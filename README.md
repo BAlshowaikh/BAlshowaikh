@@ -1,11 +1,11 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=45&pause=500&color=A87EF7&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Batool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=45&pause=100&color=A87EF7&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Batool!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=A87EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Specialist;AI+Enthusiast" alt="roles" />
+  <i>Full-Stack Developer &nbsp;·&nbsp; Backend Specialist &nbsp;·&nbsp; AI Enthusiast :)</i>
 </p>
 
 *Turning messy problems into clean, well-structured systems* 
