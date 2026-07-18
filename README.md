@@ -7,13 +7,13 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF8FAB&height=50&section=header&text=Full-Stack%20Developer%20%C2%B7%20Backend%20Specialist%20%C2%B7%20AI%20Enthusiast%20%3A)&fontSize=18&fontColor=FF8FAB&fontAlignY=50" alt="tagline" />
 </p>
 
-*Turning messy problems into clean, well-structured systems* 
+*Turning messy problems into clean, well-structured systems*
 
 </div>
 
 <br>
 
-Hi, I'm Batool — a full-stack developer with a genuine love for backend logic and the architecture that holds everything together. I'v been building things that actually get used: an AI-powered learning platform, an event-driven admission automation system during my time at AWS's Cloud Innovation Center, and a real estate crowdfunding app that placed third at the Yousif bin Kanoo Awards.
+Hi, I'm Batool — a full-stack developer with a genuine love for backend logic and the architecture that holds everything together. I've been building things that actually get used: an AI-powered learning platform, an event-driven admission automation system during my time at AWS's Cloud Innovation Center, and a real estate crowdfunding app that placed third at the Yousif bin Kanoo Awards.
 
 I care about writing code that's clean enough to hand off and databases that don't fall apart under pressure. Right now I'm deepening my AWS and Spring Boot skills, and staying curious about where AI fits into backend systems.
 
@@ -63,6 +63,24 @@ I care about writing code that's clean enough to hand off and databases that don
 ![Postman](https://img.shields.io/badge/Postman-FFB55E?style=for-the-badge&logo=postman&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-A87EF7?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-6EC9F7?style=for-the-badge&logo=docker&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=BAlshowaikh&theme=dark&hide_border=true&background=15131C&ring=A87EF7&fire=FF8FAB&currStreakLabel=A87EF7&sideLabels=FF8FAB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B9E" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BAlshowaikh&show_icons=true&theme=dark&hide_border=true&bg_color=15131C&title_color=A87EF7&icon_color=FF8FAB&text_color=c9d1d9&ring_color=A87EF7" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAlshowaikh&layout=compact&theme=dark&hide_border=true&bg_color=15131C&title_color=A87EF7&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<br>
 
 ## 💌 Let's Connect
 
