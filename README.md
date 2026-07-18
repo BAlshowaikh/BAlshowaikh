@@ -66,22 +66,6 @@ I care about writing code that's clean enough to hand off and databases that don
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=BAlshowaikh&theme=dark&hide_border=true&background=15131C&ring=A87EF7&fire=FF8FAB&currStreakLabel=A87EF7&sideLabels=FF8FAB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B9E" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BAlshowaikh&show_icons=true&theme=dark&hide_border=true&bg_color=15131C&title_color=A87EF7&icon_color=FF8FAB&text_color=c9d1d9&ring_color=A87EF7" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAlshowaikh&layout=compact&theme=dark&hide_border=true&bg_color=15131C&title_color=A87EF7&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<br>
-
 ## 💌 Let's Connect
 
 <p align="center">
