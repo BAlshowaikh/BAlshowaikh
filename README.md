@@ -1,10 +1,12 @@
 <div align="center">
 
-# Batool Alshowaikh
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=45&pause=1000&color=A87EF7&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Batool!" alt="Typing SVG" />
+</p>
 
 ### Full-Stack Developer · Backend Specialist · AI Enthusiast
 
-*Turning messy problems into clean, well-structured systems — one query at a time.* 
+*Turning messy problems into clean, well-structured systems* 
 
 </div>
 
