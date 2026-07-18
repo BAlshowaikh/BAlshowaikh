@@ -1,10 +1,12 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=45&pause=1000&color=A87EF7&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Batool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=45&pause=1000&color=A87EF7&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Batool!" alt="Typing SVG" />
 </p>
 
-### Full-Stack Developer · Backend Specialist · AI Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=A87EF7&height=80&section=header&text=Full-Stack%20Developer%20%C2%B7%20Backend%20Specialist%20%C2%B7%20AI%20Enthusiast&fontSize=20&fontColor=A87EF7&fontAlignY=55&animation=fadeIn" alt="tagline" />
+</p>
 
 *Turning messy problems into clean, well-structured systems* 
 
