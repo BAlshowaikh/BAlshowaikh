@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-FF8FAB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend_Specialist-A87EF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Enthusiast-6EC9F7?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=A87EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Specialist;AI+Enthusiast" alt="roles" />
 </p>
 
 *Turning messy problems into clean, well-structured systems* 
