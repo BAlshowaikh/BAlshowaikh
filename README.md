@@ -13,7 +13,7 @@
 
 <br>
 
-Hi, I'm Batool — a full-stack developer with a genuine love for backend logic and the architecture that holds everything together. I've been building things that actually get used: an AI-powered learning platform, an event-driven admission automation system during my time at AWS's Cloud Innovation Center, and a real estate crowdfunding app that placed third at the Yousif bin Kanoo Awards.
+Hi, I'm Batool — a full-stack developer with a genuine love for backend logic and the architecture that holds everything together. I've been building things that actually get used.
 
 I care about writing code that's clean enough to hand off and databases that don't fall apart under pressure. Right now I'm deepening my AWS and Spring Boot skills, and staying curious about where AI fits into backend systems.
 
