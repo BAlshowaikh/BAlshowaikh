@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Full-Stack Developer &nbsp;·&nbsp; Backend Specialist &nbsp;·&nbsp; AI Enthusiast :)</i>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=A87EF7&height=50&section=header&text=Full-Stack%20Developer%20%C2%B7%20Backend%20Specialist%20%C2%B7%20AI%20Enthusiast%20%3A)&fontSize=18&fontColor=A87EF7&fontAlignY=50" alt="tagline" />
 </p>
 
 *Turning messy problems into clean, well-structured systems* 
